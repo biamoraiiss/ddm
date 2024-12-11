@@ -1,18 +1,17 @@
 # Objetivo do Projeto
 
 O propósito deste projeto é aprimorar a experiência em um aplicativo de chat por meio da implementação de funcionalidades específicas. Entre as funcionalidades trabalhadas:  
-- **Envio de imagens** (funcionalidade obrigatória), que está parcialmente implementada.  
-- **Indicação de "usuário digitando" em tempo real** (funcionalidade adicional), totalmente concluída para ampliar a interatividade.
+- **Envio de imagens**  
+- **Indicação de "usuário digitando" em tempo real**
 
 # Tecnologias Utilizadas
-
 ### Frontend  
-- **React Native** com Expo para desenvolvimento mobile.  
-- **TailwindCSS** (via NativeWind) para estilização responsiva.  
+- **React Native**  
+- **TailwindCSS**   
 
 ### Backend  
-- **Firebase Firestore** para o armazenamento de mensagens.  
-- **Firebase Storage** para gerenciar uploads de imagens.  
+- **Firebase Firestore**  
+- **Firebase Storage**  
 
 # Funcionalidades do Projeto
 
