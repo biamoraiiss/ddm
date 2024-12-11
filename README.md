@@ -38,4 +38,4 @@ O propósito deste projeto é aprimorar a experiência em um aplicativo de chat 
    npm start
 
 # APK  
-Para acessar o aplicativo, faça o download do arquivo APK pelo seguinte link: [APK](link aqui).
+Para acessar o aplicativo, faça o download do arquivo APK pelo seguinte link: [APK](https://expo.dev/accounts/biamorais/projects/chat/builds/9ee7708a-0487-42d9-a06f-275c6187ac84).
